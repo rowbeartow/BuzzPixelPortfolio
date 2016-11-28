@@ -1,0 +1,224 @@
+
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.hero-image {
+    position: relative; 
+
+     
+}
+
+.BP-hero {
+    
+    position: relative; 
+    max-width: 100%;
+    
+
+}
+
+.BP-logo {
+    
+    position: absolute; 
+    left: 10%;
+    margin: -52% 0 0 0;
+    max-width: 25%; 
+   
+}
+
+.main-nav {
+    display: inline-block;
+    position: absolute;  
+    right: 10%;
+    margin: 6.2% 0 0 0;
+    z-index: 1;
+    
+    
+    
+}
+
+ul {
+    display: inline-block; 
+    list-style-type: none;
+    margin: 0 10px;
+    padding: 0;
+  
+}
+
+.nav-items li {
+    display: inline-block; 
+    list-style: none; 
+    margin: 0 1vw; 
+    padding: 0.5vw; 
+    color: white;
+    font-size: 1.5vw; 
+    border: solid 1px white; 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300; 
+    
+}
+
+.rob-mcfarland {
+    position: absolute; 
+    left: 10%;
+    margin: -35% 0 0 0; 
+    color: white; 
+    padding-top: 0.5vh; 
+    padding-bottom: 0.5vh; 
+    font-size: 6vw;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700; 
+    border-top: solid 1px white; 
+    border-bottom: solid 1px white; 
+}
+
+.job-roles {
+    
+    position: absolute; 
+    left: 10%;  
+    margin: -25% 0 0 0; 
+    color: white; 
+    font-size: 1.6vw;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;   
+    
+}
+
+
+.buzz {
+    
+    position: absolute; 
+    display: block; 
+    background-color: #1b1d1e; 
+    max-width: 100%; 
+    padding-bottom: 5%;
+    margin-top: -0.3em;
+    
+
+    
+}
+
+
+
+
+.buzz-headline {
+    margin-top: auto;
+    padding-top: 5%;
+    padding-bottom: 2%; 
+    text-align: center; 
+    color: white;
+    font-size: 5vw;  
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+ 
+    
+}
+
+h4 {
+    text-align: center;
+    color: white; 
+    font-size: 2vw;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300; 
+    padding-bottom: 2%; 
+    
+}
+.buzz-copy {
+    margin: 0 15% 0 15%;
+    color: white;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+    text-align: center; 
+    
+}
+
+.youtube {
+    
+    position: absolute; 
+    display: block; 
+    background-color: #5e6d70; 
+    max-width: 100%; 
+    padding-bottom: 5%;
+    margin-top: 34%; /***adjust this***/
+
+    
+}
+
+
+.youtube-headline {
+    margin-top: auto;
+    padding-top: 5%;
+    padding-bottom: 2%; 
+    text-align: center; 
+    color: white;
+    font-size: 5vw;  
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.youtube-copy {
+    margin: 0 15% 0 15%;
+    color: white;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+    text-align: center; 
+    
+}
+
+.silicon {
+    
+    position: absolute; 
+    display: block; 
+    background-color: #424e4f; 
+    max-width: 100%; 
+    padding-bottom: 5%;
+    margin-top: 69%; /***adjust this***/
+
+    
+}
+
+
+.silicon-headline {
+    margin-top: auto;
+    padding-top: 5%;
+    padding-bottom: 2%; 
+    text-align: center; 
+    color: white;
+    font-size: 5vw;  
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.silicon-copy {
+    margin: 0 15% 0 15%;
+    color: white;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+    text-align: center; 
+    
+}
+    
+/**********
+
+MEDIA QUERIES
+
+***********/
+
+
+@media screen and (max-width: 649px) {
+  
+    
+    .main-nav {
+        margin: 5% 0 0 0;
+    }
+    
+    
+   
+}
+

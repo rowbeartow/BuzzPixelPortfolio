@@ -90,12 +90,12 @@ ul {
 
 .buzz {
     
-    position: absolute; 
+    
     display: block; 
     background-color: #1b1d1e; 
     max-width: 100%; 
-    padding-bottom: 15%;
-    margin-top: -0.3em;
+    padding-bottom: 5%;
+    margin-top: -0.35em;
     
 
     
@@ -113,7 +113,7 @@ ul {
     font-size: 5vw;  
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
- 
+   
     
 }
 
@@ -138,12 +138,12 @@ h4 {
 
 .youtube {
     
-    position: absolute; 
+     
     display: block; 
     background-color: #5e6d70; 
     max-width: 100%; 
     padding-bottom: 5%;
-    margin-top: 36%; /***adjust this***/
+   
 
     
 }
@@ -173,12 +173,12 @@ h4 {
 
 .silicon {
     
-    position: absolute; 
+    
     display: block; 
     background-color: #424e4f; 
     max-width: 100%; 
     padding-bottom: 5%;
-    margin-top: 71%; /***adjust this***/
+   
 
     
 }

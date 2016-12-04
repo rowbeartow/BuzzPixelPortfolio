@@ -117,7 +117,7 @@ a {
     background-color: #1b1d1e; 
     max-width: 100%; 
     padding-bottom: 5%;
-    margin-top: -0.35em;
+    margin-top: -1%;
     
 
     
@@ -135,6 +135,7 @@ a {
     font-size: 5vw;  
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
+   
    
     
 }

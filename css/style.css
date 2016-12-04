@@ -249,35 +249,31 @@ h4 {
 
 .first-row img {
     
-    max-width: 26.35416%; 
-    margin: 2.3125%; 
-     
+    max-width: 90%;   
+    margin: 2.3125%;
     
 }
 
 .second-row img {
    
-    max-width: 42.08333%; 
+    max-width: 90%; 
     margin: 2.3125%;
-    
     
 }
 
 .third-row img {
    
     
-    max-width: 42.08333%; 
-    margin: 2.3125%; 
-    
+    max-width: 90%; 
+    margin: 2.3125%;
     
 }
 
 .fourth-row img {
      
     
-    max-width: 42.08333%; 
-    margin: 2.3125%;  
-    
+    max-width: 90%;   
+    margin: 2.3125%;
     
 }
   
@@ -337,10 +333,10 @@ MEDIA QUERIES
 
 ***********/
 
-@media only screen and (max-width: 360px) {
+@media only screen and (min-width: 360px) {
   
 }  
-@media only screen and (max-width: 768px)
+@media only screen and (min-width: 768px)
 
 {  
 
@@ -352,7 +348,8 @@ MEDIA QUERIES
   
 .first-row img {
     
-    max-width: 90%;
+    max-width: 26.35416%; 
+    margin: 2.3125%;
       
     
 }
@@ -361,7 +358,8 @@ MEDIA QUERIES
     
 .second-row img {
    
-    max-width: 90%; 
+    max-width: 42.08333%; 
+    margin: 2.3125%; 
     
     
     
@@ -370,7 +368,8 @@ MEDIA QUERIES
 .third-row img {
    
     
-    max-width: 90%; 
+    max-width: 42.08333%; 
+    margin: 2.3125%; 
      
     
     
@@ -379,7 +378,8 @@ MEDIA QUERIES
 .fourth-row img {
      
     
-    max-width: 90%; 
+    max-width: 42.08333%; 
+    margin: 2.3125%; 
     
     
     
